@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harry-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/harry-react/static/js/main.0596378f.chunk.js",
+    "main.js.map": "/harry-react/static/js/main.0596378f.chunk.js.map",
+    "runtime-main.js": "/harry-react/static/js/runtime-main.9babd718.js",
+    "runtime-main.js.map": "/harry-react/static/js/runtime-main.9babd718.js.map",
+    "static/js/2.e88d5a7f.chunk.js": "/harry-react/static/js/2.e88d5a7f.chunk.js",
+    "static/js/2.e88d5a7f.chunk.js.map": "/harry-react/static/js/2.e88d5a7f.chunk.js.map",
+    "index.html": "/harry-react/index.html",
+    "precache-manifest.0e4669a38166b6cb0562189280e78720.js": "/harry-react/precache-manifest.0e4669a38166b6cb0562189280e78720.js",
+    "service-worker.js": "/harry-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/harry-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e88d5a7f.chunk.js.LICENSE": "/harry-react/static/js/2.e88d5a7f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9babd718.js",
+    "static/js/2.e88d5a7f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0596378f.chunk.js"
+  ]
+}
